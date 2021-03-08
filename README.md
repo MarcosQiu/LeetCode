@@ -26,3 +26,4 @@
 | Problem # | Basic Idea | Time Complexity | Space Complexity |
 |-|-|-|-|
 | [131](https://leetcode.com/problems/palindrome-partitioning/) | DP + recursion | O(n2^n) | O(n^2) |
+| [132](https://leetcode.com/problems/palindrome-partitioning-ii/) | DP | O(n^2) | O(n^2) |
