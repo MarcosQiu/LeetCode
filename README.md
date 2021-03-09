@@ -27,3 +27,13 @@
 |-|-|-|-|
 | [131](https://leetcode.com/problems/palindrome-partitioning/) | DP + recursion | O(n2^n) | O(n^2) |
 | [132](https://leetcode.com/problems/palindrome-partitioning-ii/) | DP | O(n^2) | O(n^2) |
+
+### Stack
+| Problem # | Basic Idea | Time Complexity | Space Complexity |
+|-|-|-|-|
+| [1047](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | Stack | O(n) | O(n) |
+
+### Linked List
+| Problem # | Basic Idea | Time Complexity | Space Complexity |
+|-|-|-|-|
+| [24](https://leetcode.com/problems/swap-nodes-in-pairs/) | Linked List | O(n) | O(1) |
