@@ -31,6 +31,7 @@
 ### Stack
 | Problem # | Basic Idea | Time Complexity | Space Complexity |
 |-|-|-|-|
+| [227](https://leetcode.com/problems/basic-calculator-ii/) | Stack | O(n) | O(n) |
 | [1047](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | Stack | O(n) | O(n) |
 
 ### Linked List
