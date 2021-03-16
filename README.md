@@ -8,6 +8,9 @@
 ### Math
 | Problem # | Basic Idea | Time Complexity | Space Complexity |
 |-|-|-|-|
+| [54](https://leetcode.com/problems/spiral-matrix/) | Recursion | O(m*n) | O(m*n) |
+| [54](https://leetcode.com/problems/spiral-matrix-ii/) | Recursion | O(n^2) | O(1) |
+| [331]https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/) | Recurssion | O(nlogn) | O(nlogn) |
 | [949](https://leetcode.com/problems/largest-time-for-given-digits/) | Brute-force | O(1) | O(1) |
 
 ### Sliding Window
@@ -31,6 +34,7 @@
 ### Stack
 | Problem # | Basic Idea | Time Complexity | Space Complexity |
 |-|-|-|-|
+| [224](https://leetcode.com/problems/basic-calculator/) | Stack | O(n) | O(n) |
 | [227](https://leetcode.com/problems/basic-calculator-ii/) | Stack | O(n) | O(n) |
 | [1047](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | Stack | O(n) | O(n) |
 
@@ -38,3 +42,9 @@
 | Problem # | Basic Idea | Time Complexity | Space Complexity |
 |-|-|-|-|
 | [24](https://leetcode.com/problems/swap-nodes-in-pairs/) | Linked List | O(n) | O(1) |
+
+### Data Structure
+| Problem # | Basic Idea | Time Complexity | Space Complexity |
+|-|-|-|-|
+| [705](https://leetcode.com/problems/design-hashset/) | Data structure | O(1) | —————— |
+| [706](https://leetcode.com/problems/design-hashmap/) | Data structure | O(1) | —————— |
