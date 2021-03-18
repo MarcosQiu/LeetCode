@@ -43,6 +43,7 @@
 | Problem # | Basic Idea | Time Complexity | Space Complexity |
 |-|-|-|-|
 | [24](https://leetcode.com/problems/swap-nodes-in-pairs/) | Linked List | O(n) | O(1) |
+| [92](https://leetcode.com/problems/reverse-linked-list-ii/) | Linked List | O(n) | O(1) |
 
 ### Data Structure
 | Problem # | Basic Idea | Time Complexity | Space Complexity |
