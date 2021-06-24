@@ -31,6 +31,7 @@
 | [115](https://leetcode.com/problems/distinct-subsequences/) | DP | O(|s| * |t|) | O(|s| * |t|) |
 | [131](https://leetcode.com/problems/palindrome-partitioning/) | DP + recursion | O(n2^n) | O(n^2) |
 | [132](https://leetcode.com/problems/palindrome-partitioning-ii/) | DP | O(n^2) | O(n^2) |
+| [337](https://leetcode.com/problems/house-robber-iii/) | DP | O(E + V) | O(V) |
 
 ### Stack
 | Problem # | Basic Idea | Time Complexity | Space Complexity |
@@ -45,6 +46,11 @@
 |-|-|-|-|
 | [24](https://leetcode.com/problems/swap-nodes-in-pairs/) | Linked List | O(n) | O(1) |
 | [92](https://leetcode.com/problems/reverse-linked-list-ii/) | Linked List | O(n) | O(1) |
+
+### Disjoint Set
+| Problem # | Basic Idea | Time Complexity | Space Complexity |
+|-|-|-|-|
+| [399](https://leetcode-cn.com/problems/evaluate-division/) | Disjoint Set | O(n) | O(n) |
 
 ### Data Structure
 | Problem # | Basic Idea | Time Complexity | Space Complexity |
