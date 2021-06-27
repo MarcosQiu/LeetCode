@@ -1,2 +1,4 @@
 # ide related
 .idea
+
+*.DS_Store

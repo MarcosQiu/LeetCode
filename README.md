@@ -31,6 +31,8 @@
 | [115](https://leetcode.com/problems/distinct-subsequences/) | DP | O(|s| * |t|) | O(|s| * |t|) |
 | [131](https://leetcode.com/problems/palindrome-partitioning/) | DP + recursion | O(n2^n) | O(n^2) |
 | [132](https://leetcode.com/problems/palindrome-partitioning-ii/) | DP | O(n^2) | O(n^2) |
+| [279](https://leetcode.com/problems/perfect-squares/) | DP | O(nlogn) | O(n) |
+| [309](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | DP | O(n) | O(n) |
 | [337](https://leetcode.com/problems/house-robber-iii/) | DP | O(E + V) | O(V) |
 
 ### Stack
