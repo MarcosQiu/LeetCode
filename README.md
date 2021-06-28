@@ -48,6 +48,7 @@
 |-|-|-|-|
 | [24](https://leetcode.com/problems/swap-nodes-in-pairs/) | Linked List | O(n) | O(1) |
 | [92](https://leetcode.com/problems/reverse-linked-list-ii/) | Linked List | O(n) | O(1) |
+| [287](https://leetcode.com/problems/find-the-duplicate-number/) | Fast-slow pointer | O(n) | O(1) |
 
 ### Disjoint Set
 | Problem # | Basic Idea | Time Complexity | Space Complexity |
