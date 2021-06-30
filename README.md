@@ -4,6 +4,7 @@
 | Problem # | Basic Idea | Time Complexity | Space Complexity |
 |-|-|-|-|
 | [1](https://leetcode.com/problems/two-sum/) | Hash | O(n) | O(n) |
+| [560](https://leetcode.com/problems/subarray-sum-equals-k/) | Prefix sum | O(n) | O(n) |
 
 ### Math
 | Problem # | Basic Idea | Time Complexity | Space Complexity |
@@ -17,6 +18,7 @@
 | Problem # | Basic Idea | Time Complexity | Space Complexity |
 |-|-|-|-|
 | [220](https://leetcode.com/problems/contains-duplicate-iii/) | Sliding window plus BST | O(nlog(k)) | O(k) |
+| [904](https://leetcode.com/problems/fruit-into-baskets/) | Sliding window, keep the last appearances of two types of fruits | O(n) | O(1) |
 | [1004](https://leetcode.com/problems/max-consecutive-ones-iii/) | Sliding window | O(n) | O(1) |
 | [1052](https://leetcode.com/problems/grumpy-bookstore-owner/) | Sliding window | O(n) | O(1) |
 
@@ -41,6 +43,7 @@
 | [150](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Stack | O(n) | O(n) |
 | [224](https://leetcode.com/problems/basic-calculator/) | Stack | O(n) | O(n) |
 | [227](https://leetcode.com/problems/basic-calculator-ii/) | Stack | O(n) | O(n) |
+| [388](https://leetcode.com/problems/longest-absolute-file-path/) | Stack, string manipulation | O(n) | O(n) |
 | [1047](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | Stack | O(n) | O(n) |
 
 ### Linked List
@@ -53,7 +56,7 @@
 ### Disjoint Set
 | Problem # | Basic Idea | Time Complexity | Space Complexity |
 |-|-|-|-|
-| [399](https://leetcode-cn.com/problems/evaluate-division/) | Disjoint Set | O(n) | O(n) |
+| [399](https://leetcode.com/problems/evaluate-division/) | Disjoint Set | O(n) | O(n) |
 
 ### Data Structure
 | Problem # | Basic Idea | Time Complexity | Space Complexity |
@@ -61,3 +64,8 @@
 | [705](https://leetcode.com/problems/design-hashset/) | Data structure | O(1) | —————— |
 | [706](https://leetcode.com/problems/design-hashmap/) | Data structure | O(1) | —————— |
 | [1603](https://leetcode.com/problems/design-parking-system/) | Data structure | —————— | —————— |
+
+### String
+| Problem # | Basic Idea | Time Complexity | Space Complexity |
+|-|-|-|-|
+| [929](https://leetcode.com/problems/unique-email-addresses/) | String manipulation | O(n) | O(n) |
