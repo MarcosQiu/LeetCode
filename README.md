@@ -69,3 +69,8 @@
 | Problem # | Basic Idea | Time Complexity | Space Complexity |
 |-|-|-|-|
 | [929](https://leetcode.com/problems/unique-email-addresses/) | String manipulation | O(n) | O(n) |
+
+### Greedy
+| Problem # | Basic Idea | Time Complexity | Space Complexity |
+|-|-|-|-|
+| [455](https://leetcode.com/problems/assign-cookies/submissions/) | Greedy | O(nlogn) | O(n) |
