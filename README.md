@@ -73,4 +73,6 @@
 ### Greedy
 | Problem # | Basic Idea | Time Complexity | Space Complexity |
 |-|-|-|-|
+| [135](https://leetcode.com/problems/candy/) | Greedy | O(n) | O(n) |
+| [435](https://leetcode.com/problems/non-overlapping-intervals/) | Greedy | O(nlogn) | O(n) |
 | [455](https://leetcode.com/problems/assign-cookies/submissions/) | Greedy | O(nlogn) | O(n) |
